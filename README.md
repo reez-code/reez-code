@@ -1,4 +1,4 @@
-# Hi, I'm Phil! 👋
+# Hi, I'm Phil 👋
 
 I'm a passionate and curious Software Engineer from Kenya with hands-on experience building full-stack applications using React, Laravel, FastAPI, and more. I enjoy creating clean, responsive user interfaces, solving real-world problems through code, and continuously learning to improve my craft.
 
