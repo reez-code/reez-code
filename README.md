@@ -18,10 +18,10 @@ I'm a passionate and curious Software Engineer from Kenya with hands-on experien
 
 ## 💡 Projects
 
-- 🎮 **Game Store** – A full-stack eCommerce platform using React & FastAPI.  
-- 🤖 **Bot Battlr** – A React app where users browse battle bots and enlist them into their army.  
+- 🚌 **Ma3App** – A transport app (in development) for navigating Nairobi using matatus. [Live Demo](https://ma3op.netlify.app/)  
 - 🏥 **MediMall** – Laravel-based healthcare marketplace with a real-time chatroom system and technician role flows.  
-- 💊 **Easy Health** – Streamlined services logic and dashboard metrics on a Laravel backend.
+- 💊 **Easy Health** – Streamlined services logic and dashboard metrics on a Laravel backend.  
+
 
 > Check out more in my [GitHub repositories](https://github.com/reez-code)!
 
